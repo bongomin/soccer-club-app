@@ -1,7 +1,6 @@
 import React from 'react';
 import { ClubLogo } from '../utills/icons'
 
-
 // footer stateless component
 const Footer = () => {
    return (
@@ -21,5 +20,4 @@ const Footer = () => {
       </footer>
    )
 }
-
 export default Footer;

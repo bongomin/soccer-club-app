@@ -3,15 +3,14 @@ import Header from '../Header_Footer/Header'
 import Footer from '../Header_Footer/Footer'
 
 
+
 const Layout = (props) => {
    return (
       <div>
          <Header />
          {props.children}
          <Footer />
-
       </div>
    )
 }
-
 export default Layout;
