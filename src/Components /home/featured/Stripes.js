@@ -6,7 +6,6 @@ import { Animate } from 'react-move'
 
 
 class Stripes extends Component {
-
    state = {
       stripes: [
          {
