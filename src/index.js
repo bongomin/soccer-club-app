@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 // importing react-dom propert
 import { BrowserRouter } from 'react-router-dom';
 import Routes from './routes';
+import './firebase'
 
 
 
